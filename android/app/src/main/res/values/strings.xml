@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">dolarizate</string>
+    <string name="title_activity_main">dolarizate</string>
+    <string name="package_name">com.dolarizate.test.app</string>
+    <string name="custom_url_scheme">com.dolarizate.test.app</string>
+</resources>

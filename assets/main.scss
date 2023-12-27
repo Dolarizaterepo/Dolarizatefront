@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+html, body, .v-application {
+  font-family: 'Chivo', sans-serif !important;
+}
+.dolarizate-topbar {
+  position: relative;
+  .dolarizate-title {
+    position: relative;
+    width: 100%;
+    background-color: #31B96D;
+    text-align: center;
+    padding: 1.5rem 0px .5rem;
+  }
+  .dolarizate-detail {
+    width: 100%;
+    background-color: #31B96D;
+    height: 104.5px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+  }
+  .dolarizate-balance {
+    color:#31B96D;
+    text-align: center;
+    margin: -94px 5% 0px;
+  }
+  .v-image {
+    text-align: center;
+    margin: -94px 0px 0px;
+    max-height: 50vh;
+  }
+}
+.dolarizate-card {
+  border: 1px solid #31B96D;
+  background: white;
+  padding: 1rem;
+  border-radius: .75rem;
+}
+.dolarizate-h1 {
+  font-size: 3rem;
+  font-weight: 800;
+}
+.dolarizate-h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.v-btn__content {
+  text-transform: none;
+  font-family: 'Chivo', sans-serif !important;
+}

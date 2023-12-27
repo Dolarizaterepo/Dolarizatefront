@@ -1,0 +1,9 @@
+{
+    "api": {
+        "location": "http://164.90.232.127/be/api/"
+    },
+    "ref": {
+        "test": "http://104.248.21.73/be/api/",
+        "prod": "http://164.90.232.127/be/api/"
+    }
+}
