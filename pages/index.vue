@@ -8,7 +8,7 @@
       La aplicación que combate la inflación
       </div>
       <div style="font-size: small; color: white; text-align: center; margin-top: 1rem;">
-      Llegó la forma más simple de resguardar el valor de tu sueldo.
+      Llegó la forma más simple de resguardar el valor de tu sueldo hola.
       </div>
     </div>
     <div style="width: 100%;">
